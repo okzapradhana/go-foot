@@ -1,0 +1,22 @@
+.navbar{
+    background-color: white;
+}
+
+a[href]{
+    color: #015249;
+}
+
+li>a{
+    font-weight: 600;
+}
+
+.icon-navbar{
+    width: 30px;
+    height: 30px;
+
+    margin-right: 10px;
+}
+
+a>img{
+    vertical-align: middle;
+}

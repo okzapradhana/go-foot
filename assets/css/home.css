@@ -1,0 +1,93 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar{
+    background-color: white;
+}
+
+a[href]{
+    color: #015249;
+}
+
+li>a{
+    font-weight: 600;
+}
+
+.icon-navbar{
+    width: 30px;
+    height: 30px;
+
+    margin-right: 10px;
+}
+
+a>img{
+    vertical-align: middle;
+}
+
+.background-home{
+    width: 100%;
+    height: auto;
+}
+
+.text-over-image{
+    position: relative;
+}
+
+div > h3{
+    font-weight: 600;
+}
+
+.parallax-container{
+    height: 1000px;
+}
+
+.wrapper-home-content{
+    padding: 50px 30px 50px 30px;
+}
+
+.title{
+    color: #015249;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.underline{
+    width: 200px;
+    border-width: 1px;
+    border-color: #015249;
+}
+
+.desc{
+    color: #57BC90;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.footer{
+    background-color: #57BC90;
+    padding: 20px 0px 0px 0px;
+}
+
+.contact-text{
+    color: #015249;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.address-text{
+    color: #015249;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.groupmember-text{
+    background-color: #015249;  
+    padding: 10px;
+}
+
+.groupmember-text > span{
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+}

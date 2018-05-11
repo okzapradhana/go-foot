@@ -1,0 +1,28 @@
+body{
+    font-family: 'Montserrat',sans-serif;
+}
+
+.wrapper-profil{
+    padding: 40px 30%;
+}
+
+.title {
+    color: #015249;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.form{
+    margin-top: 40px;
+}
+
+.btn{
+    background-color: #015249;
+    color: white;
+    width: 250px;
+}
+
+a > button{
+    font-weight: 600;
+    font-size: 15px;
+}

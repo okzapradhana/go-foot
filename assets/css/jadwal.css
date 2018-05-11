@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper-jadwal {
+    padding: 40px 0px 0px 0px;
+}
+
+.text-note {
+    margin-top: 50px;
+}
+
+.title {
+    color: #015249;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.table {
+    width: 40%;
+    margin: auto;
+    margin-top: 40px;
+}

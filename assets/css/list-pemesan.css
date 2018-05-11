@@ -1,0 +1,19 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper-pemesan{
+    padding: 40px 30px;
+}
+
+.title {
+    color: #015249;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.table {
+    width: 75%;
+    margin: auto;
+    margin-top: 40px;
+}

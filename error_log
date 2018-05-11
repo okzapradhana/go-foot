@@ -1,0 +1,10 @@
+[06-May-2018 01:02:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Login has a deprecated constructor in /home/creaton1/GO-FOOT.creatonomics.id/application/controllers/Login.php on line 4
+[08-May-2018 07:18:09 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/creaton1/GO-FOOT.creatonomics.id/application/controllers/Booking.php on line 5
+[08-May-2018 07:58:45 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/creaton1/GO-FOOT.creatonomics.id/application/controllers/Booking.php on line 5
+[08-May-2018 07:58:47 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/creaton1/GO-FOOT.creatonomics.id/application/controllers/Booking.php on line 5
+[08-May-2018 07:59:48 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/creaton1/GO-FOOT.creatonomics.id/application/controllers/Booking.php on line 5
+[08-May-2018 07:59:51 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/creaton1/GO-FOOT.creatonomics.id/application/controllers/Booking.php on line 5
+[08-May-2018 07:59:52 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/creaton1/GO-FOOT.creatonomics.id/application/controllers/Booking.php on line 5
+[08-May-2018 07:59:53 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/creaton1/GO-FOOT.creatonomics.id/application/controllers/Booking.php on line 5
+[08-May-2018 07:59:53 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/creaton1/GO-FOOT.creatonomics.id/application/controllers/Booking.php on line 5
+[08-May-2018 07:59:54 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/creaton1/GO-FOOT.creatonomics.id/application/controllers/Booking.php on line 5

@@ -1,0 +1,19 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper-history{
+    padding: 40px 50px;
+}
+
+.title{
+    color: #015249;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.table {
+    width: 100%;
+    margin: auto;
+    margin-top: 40px;
+}
