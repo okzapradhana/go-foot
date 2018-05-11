@@ -1,4 +1,10 @@
 ###################
+About
+###################
+This is a repo that contains website to help user making futsal book.
+This website is created using PHP (CodeIgniter Framework) and HTML, CSS (Materialize Framework).
+
+###################
 What is CodeIgniter
 ###################
 
